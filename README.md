@@ -16,7 +16,8 @@ This project aims to predict the stock prices of Tesla using historical OHLC (Op
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Tesla_Stock_Prediction.git
+   git clone https://github.com/ABS-14/Tesla_Stock_Prediction.git
+
    ```
 2. Install the necessary packages:
    ```bash
@@ -93,7 +94,7 @@ The results of the model training are as follows:
 
 ## Contributors
 
-- Your Name - [GitHub](https://github.com/yourusername)
+- Aditya - [GitHub](https://github.com/ABS-14)
   
 Feel free to contribute to this project by submitting issues or pull requests.
 
